@@ -2,8 +2,8 @@
 //This php file receives the post vars of the contact page and sends it to a email address
 
 //Settings
-$email = 'yourmail@mail.be';
-$subject = '[NAME] has send you a mail';
+$email = 'driven77@gmail.com';
+$subject = 'From TestApp [NAME] has send you a mail';
 
 //Get post variables
 $name = $_POST['name'];
